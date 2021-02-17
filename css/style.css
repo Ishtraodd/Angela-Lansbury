@@ -8,3 +8,16 @@
     font-size: 50px;
     text-align:center;
 }
+
+
+.site__angelaimage{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.site__angelaimage__position{
+  display: flex;
+  
+}
